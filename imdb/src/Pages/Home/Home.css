@@ -20,3 +20,6 @@
     opacity: 1;
     transition: opacity .3s;
 } 
+.posterImage__overlay:hover {
+    opacity: 1;
+}

@@ -29,3 +29,7 @@
     margin-bottom: 0.4rem;
     text-align: left;
 }
+.posterImage__runtime {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}

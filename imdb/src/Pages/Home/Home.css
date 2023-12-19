@@ -1,3 +1,8 @@
 .posterImage{
     height: 600px;
 }
+.posterImage > img {
+    margin: auto;
+    display: block;
+    width: 100%;
+}

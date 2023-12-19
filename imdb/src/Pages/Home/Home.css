@@ -23,3 +23,9 @@
 .posterImage__overlay:hover {
     opacity: 1;
 }
+.posterImage__title {
+    font-weight: 900;
+    font-size: 4rem;
+    margin-bottom: 0.4rem;
+    text-align: left;
+}

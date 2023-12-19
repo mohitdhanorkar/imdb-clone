@@ -6,3 +6,10 @@
     display: block;
     width: 100%;
 }
+.posterImage__overlay {
+    position: absolute;
+    padding: 5rem;
+    bottom: 0px;
+    height: 70%;
+   
+} 
